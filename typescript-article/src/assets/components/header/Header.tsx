@@ -10,6 +10,8 @@ return (
 
             <li ><a href="#welcome">Welcome</a></li>
             <li ><a href="#what-is-typescript">What is TypeScript?</a></li>
+            <li ><a href="#why-use-typescript">Why use TypeScript?</a></li>
+            <li ><a href="#setting-up-typescript">Setting up TypeScript</a></li>
         </ul>
  
     </nav>
