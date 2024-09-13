@@ -5,7 +5,18 @@ wazuuup
 
 welcome
 
-this is the easiest to read article you will find when starting out in typescript 
+so first of all clone this down
+
+open your terminal
+and enter 
+
+cd typescript-article
+
+npm install 
+
+npm run dev
+
+should open up on http://localhost:5173/
 
 good luck
 
