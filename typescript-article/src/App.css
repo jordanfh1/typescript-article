@@ -29,9 +29,6 @@
   }
 }
 
-.card {
-  padding: 2em;
-}
 
 .read-the-docs {
   color: #888;
@@ -40,4 +37,10 @@
 .section{
   margin-top: 10em;
 
+}
+
+code{
+  background-color: #e6e6e6;
+  padding: 0.5em;
+  border-radius: 0.25em;
 }
