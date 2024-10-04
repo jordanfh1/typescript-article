@@ -1,23 +1,23 @@
 # typescript-article
-WK11 HACKATHON
+Hi! 
 
-wazuuup
+Welcome
 
-welcome
+This is a webpage article about Typescript, written in Typescript
 
-so first of all clone this down
+## Intrusctions
+So first of all clone this down
 
-open your terminal
-and enter 
+Open your terminal and enter the below 
 
-cd typescript-article
+<code>cd typescript-article</code>
 
-npm install 
+<code>npm install</code>
 
-npm run dev
+<code>npm run dev</code>
 
-should open up on http://localhost:5173/
+After running there should be a http://localhost:5173/ to open up in your browser
 
-good luck
+## Thanks! 
 
-read away, hopefully it's fun and digestable to your liking (yum)
+Let me know what you think, and thank you for visiting.
